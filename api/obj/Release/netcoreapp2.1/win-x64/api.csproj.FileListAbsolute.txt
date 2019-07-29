@@ -1,0 +1,17 @@
+C:\Users\sander\Dropbox\Education\Okta\Demo Env\SCIM\webapi-okta-example\api\bin\Release\netcoreapp2.1\win-x64\hostpolicy.dll
+C:\Users\sander\Dropbox\Education\Okta\Demo Env\SCIM\webapi-okta-example\api\bin\Release\netcoreapp2.1\win-x64\hostfxr.dll
+C:\Users\sander\Dropbox\Education\Okta\Demo Env\SCIM\webapi-okta-example\api\bin\Release\netcoreapp2.1\win-x64\api.exe
+C:\Users\sander\Dropbox\Education\Okta\Demo Env\SCIM\webapi-okta-example\api\bin\Release\netcoreapp2.1\win-x64\api.deps.json
+C:\Users\sander\Dropbox\Education\Okta\Demo Env\SCIM\webapi-okta-example\api\bin\Release\netcoreapp2.1\win-x64\api.runtimeconfig.json
+C:\Users\sander\Dropbox\Education\Okta\Demo Env\SCIM\webapi-okta-example\api\bin\Release\netcoreapp2.1\win-x64\api.runtimeconfig.dev.json
+C:\Users\sander\Dropbox\Education\Okta\Demo Env\SCIM\webapi-okta-example\api\bin\Release\netcoreapp2.1\win-x64\api.dll
+C:\Users\sander\Dropbox\Education\Okta\Demo Env\SCIM\webapi-okta-example\api\bin\Release\netcoreapp2.1\win-x64\api.pdb
+C:\Users\sander\Dropbox\Education\Okta\Demo Env\SCIM\webapi-okta-example\api\obj\Release\netcoreapp2.1\win-x64\api.csproj.CoreCompileInputs.cache
+C:\Users\sander\Dropbox\Education\Okta\Demo Env\SCIM\webapi-okta-example\api\obj\Release\netcoreapp2.1\win-x64\api.RazorAssemblyInfo.cache
+C:\Users\sander\Dropbox\Education\Okta\Demo Env\SCIM\webapi-okta-example\api\obj\Release\netcoreapp2.1\win-x64\api.RazorAssemblyInfo.cs
+C:\Users\sander\Dropbox\Education\Okta\Demo Env\SCIM\webapi-okta-example\api\obj\Release\netcoreapp2.1\win-x64\api.AssemblyInfoInputs.cache
+C:\Users\sander\Dropbox\Education\Okta\Demo Env\SCIM\webapi-okta-example\api\obj\Release\netcoreapp2.1\win-x64\api.AssemblyInfo.cs
+C:\Users\sander\Dropbox\Education\Okta\Demo Env\SCIM\webapi-okta-example\api\obj\Release\netcoreapp2.1\win-x64\api.RazorTargetAssemblyInfo.cache
+C:\Users\sander\Dropbox\Education\Okta\Demo Env\SCIM\webapi-okta-example\api\obj\Release\netcoreapp2.1\win-x64\api.dll
+C:\Users\sander\Dropbox\Education\Okta\Demo Env\SCIM\webapi-okta-example\api\obj\Release\netcoreapp2.1\win-x64\api.pdb
+C:\Users\sander\Dropbox\Education\Okta\Demo Env\SCIM\webapi-okta-example\api\obj\Release\netcoreapp2.1\win-x64\api.csprojAssemblyReference.cache

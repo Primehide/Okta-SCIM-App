@@ -1,0 +1,6 @@
+C:\Users\sander\Dropbox\Education\Okta\Demo Env\SCIM\webapi-okta-example\WebUI\obj\Release\netcoreapp2.2\win-x64\WebUI.csprojAssemblyReference.cache
+C:\Users\sander\Dropbox\Education\Okta\Demo Env\SCIM\webapi-okta-example\WebUI\obj\Release\netcoreapp2.2\win-x64\WebUI.csproj.CoreCompileInputs.cache
+C:\Users\sander\Dropbox\Education\Okta\Demo Env\SCIM\webapi-okta-example\WebUI\obj\Release\netcoreapp2.2\win-x64\WebUI.RazorAssemblyInfo.cache
+C:\Users\sander\Dropbox\Education\Okta\Demo Env\SCIM\webapi-okta-example\WebUI\obj\Release\netcoreapp2.2\win-x64\WebUI.RazorAssemblyInfo.cs
+C:\Users\sander\Dropbox\Education\Okta\Demo Env\SCIM\webapi-okta-example\WebUI\obj\Release\netcoreapp2.2\win-x64\WebUI.AssemblyInfoInputs.cache
+C:\Users\sander\Dropbox\Education\Okta\Demo Env\SCIM\webapi-okta-example\WebUI\obj\Release\netcoreapp2.2\win-x64\WebUI.AssemblyInfo.cs

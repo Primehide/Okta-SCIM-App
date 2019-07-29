@@ -1,0 +1,62 @@
+﻿@model api.Models.User
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>User</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.UserId)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.UserId)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.externalId)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.externalId)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.userName)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.userName)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.active)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.active)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.name.givenName)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.name.givenName)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.name.familyName)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.name.familyName)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.emails)
+        </dt>
+        <ul>
+            @foreach (var e in Model.emails)
+            {
+                <li>@e.value</li>
+            }
+        </ul>
+    </dl>
+</div>
+<div>
+    <a  asp-controller="Demo" asp-action="Users">Back to List</a>
+</div>
